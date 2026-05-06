@@ -11,3 +11,7 @@ footer{
 	font-variant: small-caps;
 }
 /* End Letters */
+
+header [epub|type~="epigraph"] cite{
+	font-variant: small-caps;
+}
