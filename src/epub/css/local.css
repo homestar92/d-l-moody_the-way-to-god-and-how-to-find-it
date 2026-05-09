@@ -24,6 +24,7 @@ footer{
 	font-style: normal;
 }
 
+#chapter-8 [epub|type~="epigraph"],
 [epub|type~="epigraph"] cite{
 	font-style: normal;
 	font-variant: small-caps;
