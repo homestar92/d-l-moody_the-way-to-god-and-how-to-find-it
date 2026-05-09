@@ -88,3 +88,9 @@ p span.i2{
 	text-indent: -1em;
 }
 /* end hymns */
+
+/* chapter 7 added emphasis */
+#chapter-7 b{
+	font-weight: bold;
+}
+/* end added emphasis */
