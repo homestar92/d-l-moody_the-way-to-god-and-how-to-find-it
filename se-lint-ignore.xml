@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-4.xhtml">
+		<ignore code="y-022">
+			<line>49</line>
+			<line>50</line>
+			<reason>These are sermons in written form and this practice of multiple quotes from different speakers within the same paragraph, while not formally correct, reflects the conversational style of the material.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
